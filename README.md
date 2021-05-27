@@ -1,6 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Getting Started
+
+yarn create next-app dashgo
+yarn add typescript @types/react @types/node -D
+
+yarn add @chakra-ui/react @chakra-ui/core @emotion/react @emotion/styled framer-motion
+yarn add react-icons
 
 First, run the development server:
 
