@@ -1,4 +1,4 @@
-# Projeto ainda está no início
+# Projeto está sendo finalizado
 
 ## Getting Started
 
