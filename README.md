@@ -1,22 +1,26 @@
 # Projeto está sendo finalizado
 
-## Getting Started
+## Comandos e libs usados para as instalações necessárias
 
 yarn create next-app dashgo
+
 yarn add typescript @types/react @types/node -D
 
 yarn add @chakra-ui/react @chakra-ui/core @emotion/react @emotion/styled framer-motion
+
 yarn add react-icons
+
 yarn add apexcharts react-apexcharts
+
 yarn add react-hook-form
 
-First, run the development server:
+### Para fazer as instalações e rodar o projeto no seu pc, sem precisar fazer as instalações acima, usar os seguintes comandos:
 
-```bash
-npm run dev
-# or
+yarn
+
+Para rodar o projeto na sua máquina local:
+
 yarn dev
-```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
