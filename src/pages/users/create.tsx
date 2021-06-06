@@ -57,7 +57,8 @@ export default function CreateUser() {
                     <VStack spacing="8">
                         <SimpleGrid minChildWidth="240px" spacing={["6", "8"]} w="100%">
                             <Input 
-                                name="name" 
+                                name="name"
+                                type="text" 
                                 label="Nome completo"
                                 error={formState.errors.name}
                                 {...register('name')} 
