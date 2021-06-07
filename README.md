@@ -17,6 +17,13 @@ yarn add react-hook-form
 yarn add yup @hookform/resolvers
 
 yarn add miragejs -D
+
+yarn add faker -D
+
+yarn add @types/faker -D
+
+yarn add react-query
+
 ### Para fazer as instalações e rodar o projeto no seu pc, sem precisar fazer as instalações acima, usar os seguintes comandos:
 
 yarn
